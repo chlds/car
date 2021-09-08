@@ -1,4 +1,4 @@
 # car
-A library in the C programming language
+A library in the C programming language for Linux
 
-## Make the CAR library independent of the UTIL repository.
+### Make the CAR library independent of the UTIL repository.
